@@ -40,6 +40,10 @@
 # ROM Installation (To be done every time)
 
 
+Grab my latest kernel release from here: https://github.com/Jebaitedneko/android_kernel_10or_G/releases
+Select assets and download latest treble zip.
+
+
 1. Enter recovery (OFX_R10.1_MIDO_PORT.img).
 
 
@@ -61,10 +65,13 @@
 7. Flash cam_fix_encrypted.zip.
 
 
-8. Reboot to system.
+8. Flash my latest kernel zip you downloaded before.
 
 
-9. If camera doesn't work, first try opencamera. If it still doesn't work, enter recovery and install cam_fix_decrypted.zip (cam_fix_encrypted.zip should be already installed).
+9. Reboot to system.
 
 
-10. Enjoy!
+10. If camera doesn't work, first try opencamera. If it still doesn't work, enter recovery and install cam_fix_decrypted.zip (cam_fix_encrypted.zip should be already installed).
+
+
+11. Enjoy!
